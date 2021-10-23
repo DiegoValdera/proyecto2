@@ -140,6 +140,7 @@ nav a:hover{
     align-content: center;
     margin: auto;
     gap: 40px;
+    text-align: center;
     padding-bottom: 50px;    
 }
 .containerserv div{
@@ -149,7 +150,7 @@ nav a:hover{
     align-items: center;
 }
 .containerserv img{
-    align-items: center;
+    margin: auto;
 }
 /*PORTAFOLIO*/
 .portafolio{
@@ -363,6 +364,7 @@ footer div{
     header{
         padding-top: 15px;
         display: block;
+        height: 65px;
         padding-bottom: 15px;
     }
     header h1{
@@ -476,6 +478,6 @@ footer div{
         grid-column-end: 1;
     }
     .contacto button{
-        margin-left: 30%;
+        margin-left: 38%;
     }
 }
